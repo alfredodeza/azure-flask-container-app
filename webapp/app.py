@@ -1,4 +1,5 @@
 from flask import Flask, abort
+raise SyntaxError()
 
 app = Flask(__name__)
 
