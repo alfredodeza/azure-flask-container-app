@@ -4,11 +4,14 @@ _Use Azure App Service to deploy a containerized Flask application_
 
 There are many services out there that allow you to deploy a container to the cloud. Although a straightforward operation, it is critical to understand how to create a robust automation deployment system. This course will create a Python Flask application from scratch, will containerize it, set the automation for it and then deploy it to Azure.
 
+[![Architectural diagram video](https://img.youtube.com/vi/SXPMV8R6u0Q/0.jpg)](https://youtu.be/SXPMV8R6u0Q "Deployment architecture of a containerized app- Click to Watch!")
+> 🎥 Click the image above to learn about the application architecture and services used for automated deployment
+
 This course lays out the foundations for creating more powerful containerized applications beyond the simple examples. You can add a Machine Learning model into the container and the end result would be the same: a robust deployment system that can get changes quickly onto Azure with any changes to the main branch.
 
 The continuous deployment system is a game changer as a skill set, making you a far more valuable engineer.
 
-In this video you will learn:
+In this course you will learn:
 
 - Create a Python Flask application for containerization
 - Use a `Dockerfile` to create the Flask container
