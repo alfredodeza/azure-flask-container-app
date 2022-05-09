@@ -25,8 +25,8 @@ The continuous deployment system is a game changer as a skill set, making you a 
 
 The easiest way of going through the full course is using the [O'Reilly platform](https://learning.oreilly.com/videos/deploying-containers-to/50135VIDEOPAIML/) but you can start here as well and on YouTube.
 
-1.- [Architectural diagram](./course/architecture.md)
-1.- [Project structure](./course/project.md)
+1. [Architectural diagram](./course/architecture.md)
+1. [Project structure](./course/project.md)
 
 
 
