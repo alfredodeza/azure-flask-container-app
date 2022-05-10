@@ -32,7 +32,10 @@ env:
 on:
   push:
     branches:
-      - main
+       - disabled
+# Comment out "disabled" and uncomment the next line to enable activating 
+# actions getting triggered when changes go to main
+#      - main
   workflow_dispatch:
 
 jobs:
